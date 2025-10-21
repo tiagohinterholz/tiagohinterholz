@@ -1,8 +1,8 @@
 #  Tiago F. Hinterholz
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
-Me chamo Tiago F. Hinterholz, tenho 34 anos e sou natural do Rio Grande do Sul. Sou Dr. Engenheiro Eletricista formado pela UFSM. Atualmente, estou migrando de carreira para a área de desenvolvimento. Sou apaixonado por tecnologia e compartilho meus insights e evolução nos estudos no Linkedin "[Tiago F. Hinterholz](https://www.linkedin.com/in/tiago-hinterholz/)". 
+Me chamo Tiago F. Hinterholz, tenho 35 anos e sou natural do Rio Grande do Sul. Sou Dr. Engenheiro Eletricista formado pela UFSM. Atualmente, trabalho na área de desenvolvimento. Sou apaixonado por tecnologia e compartilho meus insights e evolução nos estudos no Linkedin "[Tiago F. Hinterholz](https://www.linkedin.com/in/tiago-hinterholz/)". 
 
 ---
 
@@ -91,38 +91,12 @@ Me chamo Tiago F. Hinterholz, tenho 34 anos e sou natural do Rio Grande do Sul. 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-<!-- <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Git" 
@@ -130,6 +104,14 @@ Me chamo Tiago F. Hinterholz, tenho 34 anos e sou natural do Rio Grande do Sul. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 
