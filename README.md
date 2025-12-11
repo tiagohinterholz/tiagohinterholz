@@ -15,15 +15,7 @@ Me chamo Tiago F. Hinterholz, tenho 35 anos e sou natural do Rio Grande do Sul. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>         
+/>     
 
 <img 
     align="left" 
@@ -114,6 +106,22 @@ Me chamo Tiago F. Hinterholz, tenho 35 anos e sou natural do Rio Grande do Sul. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue.js" 
+    title="Vue.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
 
 <br/>
 <br/>
