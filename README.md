@@ -134,7 +134,7 @@ Me chamo Tiago F. Hinterholz, tenho 35 anos e sou natural do Rio Grande do Sul. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=tiagohinterholz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=tiagohinterholz&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
