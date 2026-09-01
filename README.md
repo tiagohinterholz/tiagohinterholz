@@ -1,6 +1,6 @@
 #  Tiago F. Hinterholz
 
-**`Desenvolvedor Backend`**
+**`Engenheiro de Software Fullstack com enfase em Backend`**
 
 Me chamo Tiago F. Hinterholz, tenho 35 anos e sou natural do Rio Grande do Sul. Sou Dr. Engenheiro Eletricista formado pela UFSM. Atualmente, trabalho na área de desenvolvimento. Sou apaixonado por tecnologia e compartilho meus insights e evolução nos estudos no Linkedin "[Tiago F. Hinterholz](https://www.linkedin.com/in/tiago-hinterholz/)". 
 
